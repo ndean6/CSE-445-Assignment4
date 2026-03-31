@@ -1,24 +1,13 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <NationalPark>
-	<!-- The root element name is NationalPark, instead of NationalParks. -->
-
 	<NationalPark>
-
 		<Name>Grand Canyon</Name>
 		<Name>Duplicate Name</Name>
-		<!-- Two names are provided for one of the national parks. -->
-
-		<!-- A Phone element is missing on one of the national parks. -->
-
 		<Address>
-			<!-- A required attribute is missing: NearestAirport -->
 			<Number>8</Number>
 			<Street>S Entrance Road</Street>
 			<City>Grand Canyon</City>
 			<State>AZ</State>
 			<Zip>86023</Zip>
-			<!-- An Address element has no closing tag. -->
-
 		</NationalPark>
-
 </NationalPark>
