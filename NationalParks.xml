@@ -121,4 +121,18 @@
 			<Zip>83012</Zip>
 		</Address>
 	</NationalPark>
+
+	<NationalPark Rating="4.3">
+		<Name>Arches</Name>
+		<Phone>435-719-2299</Phone>
+		<Phone>435-719-2300</Phone>
+		<Address NearestAirport="Salt Lake City">
+			<Number>11</Number>
+			<Street>Arches Entrance Road</Street>
+			<City>Moab</City>
+			<State>UT</State>
+			<Zip>84532</Zip>
+		</Address>
+	</NationalPark>
+
 </NationalParks>
